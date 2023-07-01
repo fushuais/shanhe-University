@@ -61,6 +61,7 @@ label {
 }
 .navbar-inverse .navbar-brand img {
 	width: 171px;
+	left:30px;
 }
 .section-title {
 	margin-bottom: 20px;
